@@ -1,4 +1,3 @@
-
 public class ej2 {
 
     private String nombre;

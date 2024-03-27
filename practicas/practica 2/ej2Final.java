@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class ej2Final {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
